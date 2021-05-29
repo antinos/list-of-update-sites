@@ -1733,7 +1733,7 @@ sites:
       batching as data is not overwritten.
       [YouTube tutorial](https://www.youtube.com/watch?v=dLkoB25MTIY).
     maintainers:
-      - "[Anthony Sinadinos](https://imagej.net/User:ResultsToExcel)"
+      - "[Anthony Sinadinos](https://forum.image.sc/u/antinos/)"
   
   - name: "ROI 1-click Tools"
     id: "Roi1ClickTools"
