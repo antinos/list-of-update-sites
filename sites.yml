@@ -1724,16 +1724,14 @@ sites:
     maintainers:
       - "José María Delfino (delfino@qb.ffyb.uba.ar)"
       
-  - name: "ResultsToExcel"
+  - name: "Read And Write Excel"
     id: "ResultsToExcel"
     url: "https://sites.imagej.net/ResultsToExcel/"
     description: >-
       This plugin extracts data from the Results Table and adds it to a new or
-      existing .xlsx Excel file on the user's desktop. It works well with
-      batching as data is not overwritten. A similar plugin exists by another
-      developer but that one didn't work well for me. I did not consult their
-      source code.
-      [YouTube tutorial](https://www.youtube.com/watch?v=79rzUae-7N8/).
+      existing .xlsx Excel file on the user's desktop or another specified location. It works well with
+      batching as data is not overwritten.
+      [YouTube tutorial](https://www.youtube.com/watch?v=dLkoB25MTIY).
     maintainers:
       - "[Anthony Sinadinos](https://imagej.net/User:ResultsToExcel)"
   
